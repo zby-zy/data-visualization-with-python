@@ -6,3 +6,6 @@
 3) Specialized Visualization Tools
 4) Extra Visualization Tools
 5) Creating Maps and Visualizing Geospatial Data
+
+## Resources
+IBM Cognitive Class Data Visualization with Python Course: https://cognitiveclass.ai/courses/data-visualization-with-python
