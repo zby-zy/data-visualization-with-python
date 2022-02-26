@@ -22,4 +22,5 @@ Research into how people read and misread various types of visualizations is hel
 
 
 ## Resources
-IBM Cognitive Class Data Visualization with Python Course: https://cognitiveclass.ai/courses/data-visualization-with-python
+IBM Cognitive Class Data Visualization with Python Course: https://cognitiveclass.ai/courses/data-visualization-with-python<br>
+Wikipedia: https://en.wikipedia.org/wiki/Data_visualization
